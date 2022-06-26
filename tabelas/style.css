@@ -1,0 +1,32 @@
+*{
+    padding: 0;
+    margin: 0;  
+}
+.t1, .t2, .t3{
+    border-collapse: collapse;
+    width: 50%;
+    height: 250px;
+    margin-left: 20rem;
+}
+
+.t1,.t2, .t3, tr td {
+    border: 1px solid;
+    font-size: 3rem;
+    font-weight: 500;
+    padding: 10px;
+}
+
+.t1 .alig{
+    text-align: center;
+}
+.t1 .alig2{
+    text-align: right;
+}
+
+.t2 .aligtrt2{
+    text-align: center;
+}
+
+.t3 .um{
+    text-align: center;
+}
